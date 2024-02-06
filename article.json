@@ -20,7 +20,7 @@
     },
     {
       "title": "Carrot and Walnut",
-      "imgUrl": "https://fi67.github.io/JsonData/images/carrot.jpg",
+      "imgUrl": "https://raw.githubusercontent.com/fhatt94/watson_treats/main/carrot.jpg",
       "allergies": [
         "Gluten",
         "Dairy",
