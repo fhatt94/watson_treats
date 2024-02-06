@@ -27,35 +27,8 @@
         "Eggs"
       ],
       "link": "http://www.example.com/moonlight"
-    },
-
-    {
-      "title": "Red Velvet",
-      "imgUrl": "https://github.com/fhatt94/watson_treats/blob/main/sponge.jpeg",
-      "allergies": [
-        "Gluten",
-        "Nuts"
-      ],
-      "link": "http://www.example.com/falcor"
-    },
-    {
-      "title": "Lemon",
-      "imgUrl": "https://fi67.github.io/JsonData/images/chocolate.jpg",
-      "allergies": [
-        "Dairy",
-        "Soy"
-      ],
-      "link": "http://www.example.com/jem"
-    },
-    {
-      "title": "Coffee",
-      "imgUrl": "https://fi67.github.io/JsonData/images/carrot.jpg",
-      "allergies": [
-        "Gluten",
-        "Nuts",
-        "Eggs"
-      ],
-      "link": "http://www.example.com/moonlight"
- }
+    }
   ]
 }
+
+   
