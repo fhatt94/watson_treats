@@ -30,7 +30,7 @@
     },
     {
       "title": "Lemon",
-      "imgUrl": "https://fi67.github.io/JsonData/images/lemon.jpg",
+      "imgUrl": "https://raw.githubusercontent.com/fhatt94/watson_treats/main/Lemon.jpg",
       "allergies": [
         "Eggs"
       ],
