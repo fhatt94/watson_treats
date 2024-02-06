@@ -27,6 +27,16 @@
         "Eggs"
       ],
       "link": "http://www.example.com/moonlight"
+    },
+    {
+      "title": "Lemon",
+      "imgUrl": "https://fi67.github.io/JsonData/images/lemon.jpg",
+      "allergies": [
+        "Gluten",
+        "Nuts",
+        "Eggs"
+      ],
+      "link": "http://www.example.com/moonlight"
     }
   ]
 }
