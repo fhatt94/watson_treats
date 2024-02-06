@@ -2,7 +2,7 @@
   "articles": [
     {
       "title": "Vanilla Sponge",
-      "imgUrl": "https://fhatt94.github.io/JsonData/images/vanilla.jpg",
+      "imgUrl": "https://github.com/fhatt94/watson_treats/blob/main/sponge.jpeg",
       "allergies": [
         "Gluten",
         "Nuts"
