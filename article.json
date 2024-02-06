@@ -47,8 +47,8 @@
       "link": "http://www.example.com/moonlight"
     },
     {
-      "title": "Coffee",
-      "imgUrl": "https://fi67.github.io/JsonData/images/lemon.jpg",
+      "title": "Red Velvet",
+      "imgUrl": "https://fi67.github.io/JsonData/images/redvelvet.jpg",
       "allergies": [
         "Gluten",
         "Nuts",
