@@ -11,7 +11,7 @@
     },
     {
       "title": "Chocolate",
-      "imgUrl": "https://fi67.github.io/JsonData/images/chocolate.jpg",
+      "imgUrl": "https://raw.githubusercontent.com/fhatt94/watson_treats/main/chocolate.jpg",
       "allergies": [
         "Dairy",
         "Soy"
