@@ -1,35 +1,32 @@
 {
   "articles": [
-  {
-  "title": "Vanilla Sponge",
-  "imgUrl": "https://fhatt94.github.io/JsonData/images/vanilla.jpg",
-  "allergies": [
-  "Gluten",
-  "Nuts"
-  ],
-  "link": "http://www.example.com/falcor"
-  },
-
-  {
-  "title": "Chocolate",
-  "imgUrl": "https://fi67.github.io/JsonData/images/chocolate.jpg",
-  "stack": [
-  "React",
-  "Tailwind",
-  "Vite"
-  ],
-  "link": "http://www.example.com/jem"
-  },
-
-  {
-  "title": "Carrot and Walnut",
-  "imgUrl": "https://fi67.github.io/JsonData/images/carrot.jpg",
-  "stack": [
-  "Python",
-  "C#",
-  "AI"
-  ],
-  "link": "http://www.example.com/moonlight"
-  }
+    {
+      "title": "Vanilla Sponge",
+      "imgUrl": "https://fhatt94.github.io/JsonData/images/vanilla.jpg",
+      "allergies": [
+        "Gluten",
+        "Nuts"
+      ],
+      "link": "http://www.example.com/falcor"
+    },
+    {
+      "title": "Chocolate",
+      "imgUrl": "https://fi67.github.io/JsonData/images/chocolate.jpg",
+      "allergies": [
+        "Dairy",
+        "Soy"
+      ],
+      "link": "http://www.example.com/jem"
+    },
+    {
+      "title": "Carrot and Walnut",
+      "imgUrl": "https://fi67.github.io/JsonData/images/carrot.jpg",
+      "allergies": [
+        "Gluten",
+        "Nuts",
+        "Eggs"
+      ],
+      "link": "http://www.example.com/moonlight"
+    }
   ]
-  }
+}
