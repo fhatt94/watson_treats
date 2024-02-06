@@ -2,7 +2,7 @@
   "articles": [
   {
   "title": "Vanilla Sponge",
-  "imgUrl": "https://fhatt94.github.io/JsonData/images/falcor.jpg",
+  "imgUrl": "https://fhatt94.github.io/JsonData/images/vanilla.jpg",
   "allergies": [
   "Gluten",
   "Nuts"
@@ -11,8 +11,8 @@
   },
 
   {
-  "title": "Jem and Us Portfolio",
-  "imgUrl": "https://fi67.github.io/JsonData/images/jemima.jpg",
+  "title": "Chocolate",
+  "imgUrl": "https://fi67.github.io/JsonData/images/chocolate.jpg",
   "stack": [
   "React",
   "Tailwind",
@@ -22,8 +22,8 @@
   },
 
   {
-  "title": "Jewels By Moonlight",
-  "imgUrl": "https://fi67.github.io/JsonData/images/moonlight.jpg",
+  "title": "Carrot and Walnut",
+  "imgUrl": "https://fi67.github.io/JsonData/images/carrot.jpg",
   "stack": [
   "Python",
   "C#",
