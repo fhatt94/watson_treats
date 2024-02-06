@@ -1,0 +1,35 @@
+{
+  "articles": [
+  {
+  "title": "Vanilla Sponge",
+  "imgUrl": "https://fhatt94.github.io/JsonData/images/falcor.jpg",
+  "allergies": [
+  "Gluten",
+  "Nuts"
+  ],
+  "link": "http://www.example.com/falcor"
+  },
+
+  {
+  "title": "Jem and Us Portfolio",
+  "imgUrl": "https://fi67.github.io/JsonData/images/jemima.jpg",
+  "stack": [
+  "React",
+  "Tailwind",
+  "Vite"
+  ],
+  "link": "http://www.example.com/jem"
+  },
+
+  {
+  "title": "Jewels By Moonlight",
+  "imgUrl": "https://fi67.github.io/JsonData/images/moonlight.jpg",
+  "stack": [
+  "Python",
+  "C#",
+  "AI"
+  ],
+  "link": "http://www.example.com/moonlight"
+  }
+  ]
+  }
