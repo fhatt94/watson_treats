@@ -23,7 +23,7 @@
       "imgUrl": "https://fi67.github.io/JsonData/images/carrot.jpg",
       "allergies": [
         "Gluten",
-        "Nuts",
+        "Dairy",
         "Eggs"
       ],
       "link": "http://www.example.com/moonlight"
@@ -32,13 +32,30 @@
       "title": "Lemon",
       "imgUrl": "https://fi67.github.io/JsonData/images/lemon.jpg",
       "allergies": [
+        "Eggs"
+      ],
+      "link": "http://www.example.com/moonlight"
+    },
+    {
+      "title": "Coffee",
+      "imgUrl": "https://fi67.github.io/JsonData/images/lemon.jpg",
+      "allergies": [
+        "Gluten",
+        "Nuts",
+        "Eggs"
+      ],
+      "link": "http://www.example.com/moonlight"
+    },
+    {
+      "title": "Coffee",
+      "imgUrl": "https://fi67.github.io/JsonData/images/lemon.jpg",
+      "allergies": [
         "Gluten",
         "Nuts",
         "Eggs"
       ],
       "link": "http://www.example.com/moonlight"
     }
+
   ]
 }
-
-   
