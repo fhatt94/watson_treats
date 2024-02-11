@@ -3,10 +3,7 @@
     {
       "title": "Vanilla Sponge",
       "imgUrl": "https://raw.githubusercontent.com/fhatt94/watson_treats/main/sponge.jpg",
-      "allergies": [
-        "Gluten",
-        "Nuts"
-      ],
+      "description": "A vanilla sponge cake is a light, fluffy cake with a delicate vanilla flavor. It's made from basic ingredients like eggs, flour, sugar, and vanilla essence. This cake is versatile, serving as a base for many desserts or enjoyed on its own",
       "link": "http://www.example.com/falcor"
     },
     {
